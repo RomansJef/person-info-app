@@ -1,6 +1,6 @@
 package person.info.app.system.service;
 
-import person.info.app.system.requests.DeletePersonByIdRequest;
+import person.info.app.system.request.DeletePersonByIdRequest;
 import person.info.app.system.response.PersonServiceResponse;
 
 /**

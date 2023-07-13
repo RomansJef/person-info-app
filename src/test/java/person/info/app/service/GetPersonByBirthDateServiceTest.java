@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.GetPersonByBirthDateRequest;
+import person.info.app.system.request.GetPersonByBirthDateRequest;
 import person.info.app.system.response.GetPersonResponse;
 import person.info.app.system.service.GetPersonByBirthDateService;
 import person.info.app.system.serviceImpl.GetPersonByBirthDateServiceImpl;

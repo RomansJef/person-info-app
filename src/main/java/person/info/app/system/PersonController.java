@@ -5,7 +5,7 @@ import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.tags.Tag;
-import person.info.app.system.requests.*;
+import person.info.app.system.request.*;
 import person.info.app.system.response.GetFullPersonListResponse;
 import person.info.app.system.response.GetPersonResponse;
 import person.info.app.system.response.PersonServiceResponse;

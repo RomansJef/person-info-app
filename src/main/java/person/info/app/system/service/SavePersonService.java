@@ -1,6 +1,6 @@
 package person.info.app.system.service;
 
-import person.info.app.system.requests.SavePersonRequest;
+import person.info.app.system.request.SavePersonRequest;
 import person.info.app.system.response.PersonServiceResponse;
 
 /**

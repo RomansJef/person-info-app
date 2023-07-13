@@ -2,7 +2,7 @@ package person.info.app.service;
 
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.SavePersonRequest;
+import person.info.app.system.request.SavePersonRequest;
 
 import java.util.ArrayList;
 import java.util.List;

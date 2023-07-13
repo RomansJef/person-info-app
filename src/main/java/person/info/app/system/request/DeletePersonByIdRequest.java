@@ -1,4 +1,4 @@
-package person.info.app.system.requests;
+package person.info.app.system.request;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
@@ -12,17 +12,10 @@ import lombok.NoArgsConstructor;
 @Builder
 @NoArgsConstructor
 @AllArgsConstructor
-@ApiModel(description = "Update Person entity request")
-public class UpdatePersonEntityRequest {
+@ApiModel(description = "Request deleting item")
+public class DeletePersonByIdRequest {
 
     @ApiModelProperty(notes = "Personal ID")
     @NotNull
     private String personalId;
-
-    String name;
-    String gender;
-    String birthDate;
-    String phoneNumber;
-    String email;
 }
-

@@ -1,6 +1,6 @@
 package person.info.app.system.service;
 
-import person.info.app.system.requests.GetPersonByBirthDateRequest;
+import person.info.app.system.request.GetPersonByBirthDateRequest;
 import person.info.app.system.response.GetPersonResponse;
 
 /**

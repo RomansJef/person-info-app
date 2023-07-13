@@ -3,7 +3,7 @@ package person.info.app.system.serviceImpl;
 import org.apache.commons.lang3.Validate;
 import org.springframework.beans.factory.annotation.Autowired;
 import person.info.app.system.repository.RepositoryService;
-import person.info.app.system.requests.DeletePersonByIdRequest;
+import person.info.app.system.request.DeletePersonByIdRequest;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Service;
 import person.info.app.system.response.PersonServiceResponse;

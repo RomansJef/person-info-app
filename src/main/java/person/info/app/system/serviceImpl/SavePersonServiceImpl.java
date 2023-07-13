@@ -4,7 +4,7 @@ import org.apache.commons.lang3.Validate;
 import org.springframework.beans.factory.annotation.Autowired;
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.SavePersonRequest;
+import person.info.app.system.request.SavePersonRequest;
 import person.info.app.system.response.PersonServiceResponse;
 import lombok.extern.log4j.Log4j2;
 import org.springframework.stereotype.Service;

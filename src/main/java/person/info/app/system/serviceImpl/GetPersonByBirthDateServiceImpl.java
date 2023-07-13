@@ -5,7 +5,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.GetPersonByBirthDateRequest;
+import person.info.app.system.request.GetPersonByBirthDateRequest;
 import person.info.app.system.response.GetPersonResponse;
 import person.info.app.system.service.GetPersonByBirthDateService;
 

@@ -10,7 +10,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.setup.MockMvcBuilders;
 import person.info.app.system.PersonController;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.*;
+import person.info.app.system.request.*;
 import person.info.app.system.response.GetFullPersonListResponse;
 import person.info.app.system.response.GetPersonResponse;
 import person.info.app.system.response.PersonServiceResponse;

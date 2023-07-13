@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.UpdatePersonEntityRequest;
+import person.info.app.system.request.UpdatePersonEntityRequest;
 import person.info.app.system.response.PersonServiceResponse;
 import person.info.app.system.serviceImpl.UpdatePersonServiceImpl;
 

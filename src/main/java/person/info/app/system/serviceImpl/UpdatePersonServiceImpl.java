@@ -4,7 +4,7 @@ import org.apache.commons.lang3.Validate;
 import org.springframework.beans.factory.annotation.Autowired;
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.UpdatePersonEntityRequest;
+import person.info.app.system.request.UpdatePersonEntityRequest;
 import person.info.app.system.response.PersonServiceResponse;
 
 import java.util.Optional;

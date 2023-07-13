@@ -1,4 +1,4 @@
-package person.info.app.system.requests;
+package person.info.app.system.request;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

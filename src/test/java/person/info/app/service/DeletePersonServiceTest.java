@@ -4,7 +4,7 @@ import org.junit.Before;
 import org.junit.Test;
 import person.info.app.system.repository.RepositoryService;
 import person.info.app.system.repositoryImpl.PersonEntity;
-import person.info.app.system.requests.DeletePersonByIdRequest;
+import person.info.app.system.request.DeletePersonByIdRequest;
 import person.info.app.system.response.PersonServiceResponse;
 import person.info.app.system.serviceImpl.DeletePersonServiceImpl;
 
